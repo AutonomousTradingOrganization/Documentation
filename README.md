@@ -46,7 +46,7 @@
 - [Tutorial — Create   Election Program on Solana using Anchor](https://medium.com/@0xShuk/creating-election-program-on-solana-using-anchor-793dc38b3b50)
   - [GitHub - 0xShuk/Election-Program: Election Program built on Solana using Anchor Framework](https://github.com/0xShuk/Election-Program/)
 - [GitHub - 0domart/voting-app](https://github.com/0domart/voting-app)
-  
+
 
 ## Anchor project
 
@@ -69,6 +69,7 @@
 ## Front React
 
 - [Solana Frontend Development Course - YouTube](https://www.youtube.com/playlist?list=PLMZny7wGLM6w4t7pMGATxFTjjMduTsEiF)
+- [GitHub - solana-developers/create-solana-dapp: CLI for creating Solana dApps on the fly](https://github.com/solana-developers/create-solana-dapp)
 
 ### getProgramAccounts()
 
