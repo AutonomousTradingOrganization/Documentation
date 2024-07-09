@@ -73,7 +73,7 @@
 - https://github.com/AntheChristo/SolanaTokenTransfer
 - https://github.com/aslamsrima/React-Rust-Solana
 - https://github.com/dillonharless18/solana-react-ping
-- https://github.com/kingsleycj/solana-react-dapp GOOD simple replit
+- https://github.com/kingsleycj/solana-react-dapp
 
 ### getProgramAccounts()
 
