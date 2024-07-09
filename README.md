@@ -70,6 +70,10 @@
 
 - [Solana Frontend Development Course - YouTube](https://www.youtube.com/playlist?list=PLMZny7wGLM6w4t7pMGATxFTjjMduTsEiF)
 - [GitHub - solana-developers/create-solana-dapp: CLI for creating Solana dApps on the fly](https://github.com/solana-developers/create-solana-dapp)
+- https://github.com/AntheChristo/SolanaTokenTransfer
+- https://github.com/aslamsrima/React-Rust-Solana
+- https://github.com/dillonharless18/solana-react-ping
+- https://github.com/kingsleycj/solana-react-dapp GOOD simple replit
 
 ### getProgramAccounts()
 
