@@ -70,10 +70,10 @@
 
 - [Solana Frontend Development Course - YouTube](https://www.youtube.com/playlist?list=PLMZny7wGLM6w4t7pMGATxFTjjMduTsEiF)
 - [GitHub - solana-developers/create-solana-dapp: CLI for creating Solana dApps on the fly](https://github.com/solana-developers/create-solana-dapp)
-- https://github.com/AntheChristo/SolanaTokenTransfer
-- https://github.com/aslamsrima/React-Rust-Solana
-- https://github.com/dillonharless18/solana-react-ping
-- https://github.com/kingsleycj/solana-react-dapp
+- [GitHub - AntheChristo/SolanaTokenTransfer: This project is a simple web application built with React that allows users to connect their Phantom Wallet and transfer Solana (SOL) tokens to another account.](https://github.com/AntheChristo/SolanaTokenTransfer)
+- [GitHub - aslamsrima/React-Rust-Solana: Sample React project with Rust contract integrated which is deployed on solana with integrated phantom wallet](https://github.com/aslamsrima/React-Rust-Solana)
+- [GitHub - dillonharless18/solana-react-ping: A small React application that connects to your Phantom wallet and hits the Ping contract.](https://github.com/dillonharless18/solana-react-ping)
+- [GitHub - kingsleycj/solana-react-dapp: created my first react dapp on solana, it has a basic functionality: connecting to the Phantom Wallet](https://github.com/kingsleycj/solana-react-dapp)
 
 ### getProgramAccounts()
 
@@ -87,4 +87,5 @@
 - ⭐ [Actions et Blinks | Solana](https://solana.com/fr/docs/advanced/actions)
   > L'exemple de réponse suivant fournit 3 liens d'action associée qui permettent à l'utilisateur de cliquer sur l'un des 3 boutons pour voter lors d'une proposition de DAO
 - [DefiLlama - DeFi TVL aggregator](https://defillama.com/yields?chain=Solana)
+- [GitHub - solana-developers/solana-tools: List of Solana dev tools](https://github.com/solana-developers/solana-tools)
 
