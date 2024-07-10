@@ -89,4 +89,5 @@
   > L'exemple de réponse suivant fournit 3 liens d'action associée qui permettent à l'utilisateur de cliquer sur l'un des 3 boutons pour voter lors d'une proposition de DAO
 - [DefiLlama - DeFi TVL aggregator](https://defillama.com/yields?chain=Solana)
 - [GitHub - solana-developers/solana-tools: List of Solana dev tools](https://github.com/solana-developers/solana-tools)
+- 🦆 [Méthode du canard en plastique — Wikipédia](https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique)
 
