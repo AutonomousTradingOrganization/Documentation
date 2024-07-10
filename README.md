@@ -19,6 +19,12 @@
 - [How to detect if a Solana program is invoked via CPI? - Stack Overflow](https://stackoverflow.com/questions/72540314/how-to-detect-if-a-solana-program-is-invoked-via-cpi)
 - [Cross Program Invocation in Anchor](https://www.rareskills.io/post/cross-program-invocation)
 - [Jupiter Swap via CPI](https://station.jup.ag/docs/apis/cpi)
+- [SolDev - Anchor CPIs and Errors](https://www.soldev.app/course/anchor-cpi)
+- [SolDev - Cross Program Invocations](https://www.soldev.app/course/cpi)
+
+## Test Units
+
+- [A Guide to Testing Solana Programs](https://www.helius.dev/blog/a-guide-to-testing-solana-programs)
 
 
 ## Dioxus
