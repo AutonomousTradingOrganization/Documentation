@@ -22,6 +22,12 @@
 - [SolDev - Anchor CPIs and Errors](https://www.soldev.app/course/anchor-cpi)
 - [SolDev - Cross Program Invocations](https://www.soldev.app/course/cpi)
 
+
+## PDA
+
+- [SolDev - Anchor PDAs and Accounts](https://www.soldev.app/course/anchor-pdas)
+
+
 ## Test Units
 
 - [A Guide to Testing Solana Programs](https://www.helius.dev/blog/a-guide-to-testing-solana-programs)
