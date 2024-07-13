@@ -25,6 +25,7 @@
 
 ## PDA
 
+- [PDA (Program Derived Address) vs Keypair Account in Solana](https://www.rareskills.io/post/solana-pda)
 - [SolDev - Anchor PDAs and Accounts](https://www.soldev.app/course/anchor-pdas)
 
 
