@@ -5,7 +5,6 @@
 - ⭐ [AutonomousTradingOrganization · GitHub](https://github.com/AutonomousTradingOrganization)
   - [Boyquotes · GitHub](https://github.com/Boyquotes)
   - [Laugharne (Laugharne) · GitHub](https://Github.com/Laugharne)
-  - [youssefkillua (Youssef KHAOULAJ) · GitHub](https://Github.com/youssefkillua)
 
 
 ## CPI
