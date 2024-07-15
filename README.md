@@ -71,6 +71,10 @@
 - [Space Operator](https://spaceoperator.com/)
 - [Blockchain Code Generation Platform](https://www.codigo.ai/)
 
+### Security & auditing
+
+- [GitHub - 0xsanny/solsec: A collection of resources to study Solana smart contract security, auditing, and exploits.](https://github.com/0xsanny/solsec)
+
 
 ## Jupiter
 
